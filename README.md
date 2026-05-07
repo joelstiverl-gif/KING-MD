@@ -49,7 +49,7 @@ Use this guide if you are deploying on **Pterodactyl, Plesk, Render, or a VPS**.
 
 ```bash
 # ==========================================
-#        KING-MD CONFIGURATION
+#        THOMAS-MD CONFIGURATION
 # ==========================================
 
 # 1. SESSION ID (Required)
@@ -58,8 +58,8 @@ SESSION="YOUR_SESSION_ID_HERE"
 
 # 2. BOT OWNER
 # Put your phone number (No '+' or spaces).
-# Example: 254712345678
-DEV="254712345678"
+# Example: 2250103117692
+DEV="2250103117692"
 
 # 3. COUNTRY CODE
 # Your country code (e.g., 254 for Kenya).
@@ -67,7 +67,7 @@ CODE="254"
 
 # 4. BOT NAME
 # Give your bot a custom name.
-APP_NAME="KING-M"
+APP_THOMAS="KING-M"
 
 # 5. HEROKU API (Optional)
 # Leave blank if you are not using Heroku features.
